@@ -19,7 +19,7 @@
 [:globe_with_meridians::computer:](https://rawcdn.githack.com/NewIncome/mv_todo-list/360b90c602894736e0f744429a057caff0ed5042/index.html)
 
 
-### Usage
+## Usage
 
 - Add a project (title and description)
 - Click on the projects and add n number of tasks you want
